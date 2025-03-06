@@ -13,6 +13,8 @@ I am generally interested in enhancing the general capabilities of Vision-langua
 - **[Jan. 2025]** Code and paper about improving visual position encoding [**PyPE**](https://github.com/SakuraTroyChen/PyPE) has been released.
 - **[Aug. 2024]** Code and paper about Multimodal RAG [**RagVL**](https://github.com/IDEA-FinAI/RagVL) has been released.
 
+{% include_relative _includes/preprint.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
