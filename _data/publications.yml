@@ -1,22 +1,46 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Aspects are Anchors: Towards Multi-Modal Aspect-Based Sentiment Analysis via Aspect-Driven Alignment and Refinement"
+    authors: <strong>Zhanpeng Chen</strong>, Zhihong Zhu, Wanshi Xu, Yunyan Zhang, Xian Wu, Yefeng Zheng
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/10.1145/3664647.3681189
+    bibtex: https://dl.acm.org/doi/10.1145/3664647.3681189
+    image: ./assets/img/pub-aspects.png
+    notes: ACM MM 2024 Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Relevance Is a Guiding Light: Relevance-aware Adaptive Learning for End-to-end Task-oriented Dialogue System"
+    authors: <strong>Zhanpeng Chen</strong>, Zhihong Zhu, Wanshi Xu, Xianwei Zhuang, Yuexian Zou
+    conference_short: EMNLP
+    conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
+    pdf: https://aclanthology.org/2024.emnlp-main.309/
+    bibtex: https://aclanthology.org/2024.emnlp-main.309/
+    notes: EMNLP 2024 Accept
+    image: ./assets/img/pub-relevance.png
+
+  - title: "Dual-oriented Disentangled Network with Counterfactual Intervention for Multimodal Intent Detection"
+    authors: <strong>Zhanpeng Chen</strong>, Zhihong Zhu, Xianwei Zhuang, Zhiqi Huang, Yuexian Zou
+    conference_short: EMNLP
+    conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
+    pdf: https://aclanthology.org/2024.emnlp-main.972/
+    bibtex: https://aclanthology.org/2024.emnlp-main.972/
+    notes: EMNLP 2024 Accept
+    image: ./assets/img/pub-dual.png
+
+  - title: "Towards Multimodal-augmented Pre-trained Language Models via Self-balanced Expectation-Maximization Iteration"
+    authors: Xianwei Zhuang, Xuxin Cheng, Zhihong Zhu, <strong>Zhanpeng Chen</strong>, Hongxiang Li, Yuexian Zou
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/10.1145/3664647.3681388
+    bibtex: https://dl.acm.org/doi/10.1145/3664647.3681388
+    notes: ACM MM 2024 Accept
+    image: ./assets/img/pub-em.png
+
+  - title: "Game on Tree: Visual Hallucination Mitigation via Coarse-to-Fine View Tree and Game Theory"
+    authors: Xianwei Zhuang, Zhihong Zhu, <strong>Zhanpeng Chen</strong>, Yuxin Xie, Liming Liang, Yuexian Zou
+    conference_short: EMNLP
+    conference:  Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
+    pdf: https://aclanthology.org/2024.emnlp-main.998/
+    code:  https://github.com/mengchuang123/GTHM
+    notes: EMNLP 2024 Accept
+    image: ./assets/img/pub-game.png
