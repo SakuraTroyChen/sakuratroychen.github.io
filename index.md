@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year graduate student in Computer Science at Peking University, advised by Prof. Yuexian Zou. Previously, I earned a B.A. in Environmental Engineering from Sun Yat-sen University.
+I am a third-year graduate student in Computer Science at Peking University, advised by Prof. Yuexian Zou. Previously, I earned a B.A. in Environmental Engineering from Sun Yat-sen University.
 
 My research focuses on enhancing the general capabilities of Vision-Language Models (VLMs) and developing trustworthy AI agents.
 
