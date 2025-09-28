@@ -8,6 +8,7 @@ main:
     code: https://github.com/SakuraTroyChen/PyPE
     model: https://huggingface.co/Sakura927/PyPE-LLaVA-7B
     image: ./assets/img/pub-pype.png
+    notes: ACL 2025 Accept
 
   - title: "MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training"
     authors: <strong>Zhanpeng Chen</strong>, Chengjin Xu, Yiyan Qi, Jian Guo
@@ -16,12 +17,15 @@ main:
     pdf: https://arxiv.org/abs/2407.21439
     code: https://github.com/IDEA-FinAI/RagVL
     image: ./assets/img/pub-ragvl.png
+    notes: EMNLP 2025 Accept
 
   - title: "ToolExpNet: Optimizing Multi-Tool Selection in LLMs with Similarity and Dependency-Aware Experience Networks"
     authors: Zijing Zhang, <strong>Zhanpeng Chen</strong>, He Zhu, Ziyang Chen, Nan Du, Xiaolong Li
     conference_short: ACL Findings
     conference: In Findings of the Association for Computational Linguistics <strong>(ACL Findings)</strong>, 2025.
+    pdf: https://aclanthology.org/2025.findings-acl.811/
     image: ./assets/img/pub-toolexpnet.png
+    notes: ACL 2025 Accept
 
   - title: "Aspects are Anchors: Towards Multi-Modal Aspect-Based Sentiment Analysis via Aspect-Driven Alignment and Refinement"
     authors: <strong>Zhanpeng Chen</strong>, Zhihong Zhu, Wanshi Xu, Yunyan Zhang, Xian Wu, Yefeng Zheng
